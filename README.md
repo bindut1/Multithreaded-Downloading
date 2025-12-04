@@ -3,6 +3,7 @@
 Ứng dụng quản lý tải xuống đa luồng được phát triển bằng Java và JavaFX, hỗ trợ tải xuống file từ link trực tiếp và torrent với khả năng tải đa luồng để tăng tốc độ tải xuống.
 
 ## 📋 Mục lục
+
 - [Demo](#demo)
 - [Tính năng](#tính-năng)
 - [Công nghệ sử dụng](#công-nghệ-sử-dụng)
@@ -106,7 +107,6 @@ java -jar target/Downloading-0.0.1-SNAPSHOT.jar
   - Đường dẫn lưu file mặc định
   - Các tùy chọn khác
 
-
 ## 📁 Cấu trúc dự án
 
 ```
@@ -158,10 +158,6 @@ Mọi đóng góp đều được chào đón! Vui lòng:
 ## 📝 License
 
 Dự án này được phát triển cho mục đích học tập và nghiên cứu.
-
-## 👥 Tác giả
-
-- **bindut1** - [GitHub Profile](https://github.com/bindut1)
 
 ## 📧 Liên hệ
 
